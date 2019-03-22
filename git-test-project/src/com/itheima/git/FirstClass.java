@@ -10,4 +10,9 @@ public class FirstClass {
         System.out.println("Hello get project6");
 
     }
+    public void test(){
+        int i = 0;
+        i += 10;
+    }
+
 }
